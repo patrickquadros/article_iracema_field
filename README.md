@@ -1,1 +1,2 @@
-# article_iracema_field
+This repository contains the three scripts used to develop the file. The "closed_pores.ipynb" script was used specifically for segmentation, calculation of aspect ratios and application of effective media models. The "VS_prediction_wellC.ipynb" file was used to create the MLO model for reconstructing the VS profile missing from the well data used. The "loading_wells.ipynb" file was developed in Google Colab, and the analyses and estimates were made using the well data.
+Some of the data used could not be shared because they are confidential.
